@@ -1,0 +1,8 @@
+requests
+numpy
+scipy
+py_entitymatching
+xgboost
+pandastable
+IPython
+pyqt5
